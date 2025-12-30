@@ -3,60 +3,64 @@ Portofolio Professional &amp; Project AI Engineer
 
 Senior AI Engineer and Technology Strategist Portfolio
 
-Selamat datang di repositori portofolio profesional saya. Repositori ini berisi dokumentasi proyek, keahlian teknis, dan perjalanan karier saya selama lebih dari 10 tahun di industri Teknologi Informasi, dengan fokus pada implementasi Artificial Intelligence (AI) dan Arsitektur Cloud.
+Welcome to my professional repository. This repository documents my projects, technical expertise, and a career journey spanning over 10 years in the Information Technology industry, with a primary focus on Artificial Intelligence (AI) implementation and Cloud Architecture.
 
-Profil Profesional
+Professional Profile
 
-Saya adalah seorang Senior IT Professional dengan pengalaman lebih dari 10 tahun, yang bertransisi dari bidang Network Engineering menjadi AI Specialist. Saya memiliki keahlian dalam kepemimpinan teknis, optimasi infrastruktur AWS, dan pengembangan solusi Natural Language Processing (NLP) tingkat perusahaan.
+I am a Senior IT Professional with over a decade of experience, successfully transitioning from Network Engineering to becoming an AI Specialist. I possess deep expertise in technical leadership, AWS cloud optimization, and the development of enterprise-grade Natural Language Processing (NLP) solutions.
 
-Pendidikan: Sarjana Teknologi Informasi - Universitas Budi Luhur.
+Education: Bachelor of Information Technology - Budi Luhur University.
 
-Sertifikasi Utama: * AWS Academy Graduate - Cloud Architecting (2022)
+Key Certifications:
+
+AWS Academy Graduate - Cloud Architecting (2022)
 
 Microsoft Certified Educator (2021)
 
 Best Trainer Award - Orbit Future Academy (2021)
 
-Keahlian Teknis
+Technical Expertise
 
-AI dan NLP Solutions
+AI and NLP Solutions
 
-Implementasi Large Language Models (OpenAI, LangChain)
+Implementation of Large Language Models (OpenAI, LangChain)
 
-Retrieval-Augmented Generation (RAG) dan Fine-tuning
+Retrieval-Augmented Generation (RAG) and Fine-tuning
 
-AI Quality Assurance (QA) dan Strategi Data
+AI Quality Assurance (QA) and Data Strategy
 
-Cloud Infrastructure dan DevOps
+Cloud Infrastructure and DevOps
 
-Ekosistem AWS (EC2, S3, Lambda)
+AWS Ecosystem (EC2, S3, Lambda)
 
-MLOps dan CI/CD Pipelines
+MLOps and CI/CD Pipelines
 
-System Design dan Arsitektur Sistem
+System Design and Scalable Architecture
 
 Full-Stack Development
 
-Bahasa Pemrograman: Python, JavaScript (ES6+), SQL
+Languages: Python, JavaScript (ES6+), SQL
 
-Web: HTML5, CSS3, Responsive Design
+Web Frameworks: HTML5, CSS3, Responsive Design
 
-Sistem Operasi: Manajemen Server Linux Enterprise
+Operating Systems: Enterprise Linux Server Management
 
-Proyek Unggulan
+Key Projects
 
-AI Training Framework: Menstandarisasi kerangka kerja teknis untuk kurikulum AI tingkat nasional.
+AI Training Framework: Standardized technical frameworks for national-level AI curricula.
 
-Scalable Cloud Deployment: Mengelola infrastruktur AWS untuk implementasi model AI skala besar yang stabil.
+Scalable Cloud Deployment: Managed AWS infrastructure to ensure stable, large-scale AI model deployments.
 
-Enterprise NLP QA: Melakukan evaluasi performa dan penjaminan kualitas (QA) untuk model NLP tingkat perusahaan.
+Enterprise NLP QA: Conducted performance evaluations and critical quality assurance for corporate NLP models.
 
-Kontak dan Informasi
+Contact and Information
 
 LinkedIn: linkedin.com/in/abdul-hafidz-murtono/
 
-Website Portofolio: abdul-hafidz-murtono-web-portofolio.netlify.app
+Portfolio Website: abdul-hafidz-murtono-web-portofolio.netlify.app
 
 Email: abdul.hafidz2601@gmail.com
+
+Developed by Abdul Hafidz Murtono © 2025
 
 Developed by Abdul Hafidz Murtono © 2025
